@@ -1,0 +1,13 @@
+date,region,product,units_sold,revenue,stock_available
+2026-07-01,Riyadh,Product A,120,24000,500
+2026-07-01,Riyadh,Product B,100,30000,400
+2026-07-01,Jeddah,Product A,110,22000,450
+2026-07-01,Jeddah,Product B,90,27000,350
+2026-07-01,Dammam,Product A,80,16000,300
+2026-07-01,Dammam,Product B,70,21000,280
+2026-08-01,Riyadh,Product A,125,25000,480
+2026-08-01,Riyadh,Product B,35,10500,20
+2026-08-01,Jeddah,Product A,115,23000,430
+2026-08-01,Jeddah,Product B,92,27600,330
+2026-08-01,Dammam,Product A,82,16400,290
+2026-08-01,Dammam,Product B,72,21600,260
